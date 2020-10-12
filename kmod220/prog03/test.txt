@@ -1,0 +1,211 @@
+UI 0:ExponentialFib
+UI 1:LinearFib
+UI 2:LogFib
+UI 3:ConstantFib
+UI 4:MysteryFib
+UI 5:EXIT
+UI command 0
+doExperiments prog03.ExponentialFib@2aaf7cc2
+UI 	Enter n
+UI 	? 
+UI  is not an integer.
+UI 	Enter n
+UI 	? abc
+UI abc is not an integer.
+UI 	Enter n
+UI 	? 10
+UI fib(10) = 55.0 in 0.3286978970764779 microseconds.  
+UI 	Enter n
+UI 	? 10
+UI Estimated time on input 10 is 0.3286978970764779 microseconds.
+UI fib(10) = 55.0 in 0.2819715033157001 microseconds.  16.5713177435743% error.
+UI 	Enter n
+UI 	? 10
+UI Estimated time on input 10 is 0.2819715033157001 microseconds.
+UI fib(10) = 55.0 in 0.2760587938317509 microseconds.  2.141829789908009% error.
+UI 	Enter n
+UI 	? 20
+UI Estimated time on input 20 is 33.95298711249855 microseconds.
+UI fib(20) = 6765.0 in 30.170761364653522 microseconds.  12.536063316837877% error.
+UI 	Enter n
+UI 	? 30
+UI Estimated time on input 30 is 3710.7583408941573 microseconds.
+UI fib(30) = 832040.0 in 3776.832126436782 microseconds.  -1.7494498916201846% error.
+UI 	Enter n
+UI 	? 40
+UI Estimated time on input 40 is 464519.64356959966 microseconds.
+UI fib(40) = 1.02334155E8 in 448060.392 microseconds.  3.673444889009442% error.
+UI 	Enter n
+UI 	? null
+UI 0:ExponentialFib
+UI 1:LinearFib
+UI 2:LogFib
+UI 3:ConstantFib
+UI 4:MysteryFib
+UI 5:EXIT
+UI command 1
+doExperiments prog03.LinearFib@6fadae5d
+UI 	Enter n
+UI 	? 100
+UI fib(100) = 3.54224848179262E20 in 0.23873717526050423 microseconds.  
+UI 	Enter n
+UI 	? 100
+UI Estimated time on input 100 is 0.23873717526050423 microseconds.
+UI fib(100) = 3.54224848179262E20 in 0.1470277027051659 microseconds.  62.375641370961894% error.
+UI 	Enter n
+UI 	? 100
+UI Estimated time on input 100 is 0.1470277027051659 microseconds.
+UI fib(100) = 3.54224848179262E20 in 0.14838617504856547 microseconds.  -0.9154979181550723% error.
+UI 	Enter n
+UI 	? 200
+UI Estimated time on input 200 is 0.29677235009713093 microseconds.
+UI fib(200) = 2.8057117299251016E41 in 0.2768903992039067 microseconds.  7.180440690752465% error.
+UI 	Enter n
+UI 	? 400
+UI Estimated time on input 400 is 0.5537807984078134 microseconds.
+UI fib(400) = 1.760236806450138E83 in 0.536229425129554 microseconds.  3.2731089447429995% error.
+UI 	Enter n
+UI 	? 800
+UI Estimated time on input 800 is 1.072458850259108 microseconds.
+UI fib(800) = 6.928308186422468E166 in 1.090977258140076 microseconds.  -1.6974146567031807% error.
+UI 	Enter n
+UI 	? null
+UI 0:ExponentialFib
+UI 1:LinearFib
+UI 2:LogFib
+UI 3:ConstantFib
+UI 4:MysteryFib
+UI 5:EXIT
+UI command 2
+doExperiments prog03.LogFib@2d6e8792
+UI 	Enter n
+UI 	? 100
+UI fib(100) = 3.5422484817926226E20 in 0.12653699720372577 microseconds.  
+UI 	Enter n
+UI 	? 100
+UI Estimated time on input 100 is 0.12653699720372577 microseconds.
+UI fib(100) = 3.5422484817926226E20 in 0.07654741462697624 microseconds.  65.3053833631797% error.
+UI 	Enter n
+UI 	? 100
+UI Estimated time on input 100 is 0.07654741462697624 microseconds.
+UI fib(100) = 3.5422484817926226E20 in 0.0743908415524443 microseconds.  2.898976580351759% error.
+UI 	Enter n
+UI 	? 1000
+UI Estimated time on input 1000 is 0.11158626232866643 microseconds.
+UI fib(1000) = 4.3466557686937765E208 in 0.09336254331218151 microseconds.  19.51930439121529% error.
+UI 	Enter n
+UI 	? 10000
+UI Estimated time on input 10000 is 0.12448339108290869 microseconds.
+UI fib(10000) = Infinity in 0.11238325835986891 microseconds.  10.766846325360355% error.
+UI 	Enter n
+UI 	? 100000
+UI Estimated time on input 100000 is 0.14047907294983614 microseconds.
+UI fib(100000) = Infinity in 0.17426493703266388 microseconds.  -19.387643124385363% error.
+UI 	Enter n
+UI 	? null
+UI 0:ExponentialFib
+UI 1:LinearFib
+UI 2:LogFib
+UI 3:ConstantFib
+UI 4:MysteryFib
+UI 5:EXIT
+UI command 3
+doExperiments prog03.ConstantFib@2acf57e3
+UI 	Enter n
+UI 	? 100
+UI fib(100) = 3.542248481792631E20 in 0.13179278435894834 microseconds.  
+UI 	Enter n
+UI 	? 100
+UI Estimated time on input 100 is 0.13179278435894834 microseconds.
+UI fib(100) = 3.542248481792631E20 in 0.10043620191556464 microseconds.  31.220398467222758% error.
+UI 	Enter n
+UI 	? 100
+UI Estimated time on input 100 is 0.10043620191556464 microseconds.
+UI fib(100) = 3.542248481792631E20 in 0.09902929065720266 microseconds.  1.4207021468346275% error.
+UI 	Enter n
+UI 	? 1000
+UI Estimated time on input 1000 is 0.09902929065720266 microseconds.
+UI fib(1000) = 4.3466557686938915E208 in 0.12068541637361203 microseconds.  -17.94427725166676% error.
+UI 	Enter n
+UI 	? 10000
+UI Estimated time on input 10000 is 0.12068541637361203 microseconds.
+UI fib(10000) = Infinity in 0.099276070458736 microseconds.  21.565464684437533% error.
+UI 	Enter n
+UI 	? 100000
+UI Estimated time on input 100000 is 0.099276070458736 microseconds.
+UI fib(100000) = Infinity in 0.08161698066914047 microseconds.  21.636538922190812% error.
+UI 	Enter n
+UI 	? null
+UI 0:ExponentialFib
+UI 1:LinearFib
+UI 2:LogFib
+UI 3:ConstantFib
+UI 4:MysteryFib
+UI 5:EXIT
+UI command 4
+doExperiments prog03.MysteryFib@96532d6
+UI 	Enter n
+UI 	? 100
+UI fib(100) = 3.54224848179262E20 in 1.5975494532804166 microseconds.  
+UI 	Enter n
+UI 	? 100
+UI Estimated time on input 100 is 1.5975494532804164 microseconds.
+UI fib(100) = 3.54224848179262E20 in 1.1799046227732592 microseconds.  35.39649073715134% error.
+UI 	Enter n
+UI 	? 100
+UI Estimated time on input 100 is 1.1799046227732592 microseconds.
+UI fib(100) = 3.54224848179262E20 in 0.6885447700469907 microseconds.  71.36207754402595% error.
+UI 	Enter n
+UI 	? 200
+UI Estimated time on input 200 is 1.3770895400939813 microseconds.
+UI fib(200) = 2.8057117299251016E41 in 1.3411713915839336 microseconds.  2.6781177063155295% error.
+UI 	Enter n
+UI 	? 500
+UI Estimated time on input 500 is 3.352928478959834 microseconds.
+UI fib(500) = 1.394232245616977E104 in 3.1806174231669506 microseconds.  5.417534801193181% error.
+UI 	Enter n
+UI 	? 1000
+UI Estimated time on input 1000 is 6.361234846333901 microseconds.
+UI fib(1000) = 4.346655768693743E208 in 8.695107030357567 microseconds.  -26.841212832404786% error.
+UI 	Enter n
+UI 	? null
+UI 0:ExponentialFib
+UI 1:LinearFib
+UI 2:LogFib
+UI 3:ConstantFib
+UI 4:MysteryFib
+UI 5:EXIT
+UI command 0
+doExperiments prog03.ExponentialFib@3796751b
+UI 	Enter n
+UI 	? 10
+UI fib(10) = 55.0 in 0.4044369127966038 microseconds.  
+UI 	Enter n
+UI 	? 20
+UI Estimated time on input 20 is 49.74245195163357 microseconds.
+UI fib(20) = 6765.0 in 43.674147280999755 microseconds.  13.894500633499039% error.
+UI 	Enter n
+UI 	? 30
+UI Estimated time on input 30 is 5371.565017721947 microseconds.
+UI fib(30) = 832040.0 in 5361.375461988301 microseconds.  0.1900548806157811% error.
+UI 	Enter n
+UI 	? 40
+UI Estimated time on input 40 is 659405.5905246731 microseconds.
+UI fib(40) = 1.02334155E8 in 650765.695 microseconds.  1.327650733751902% error.
+UI 	Enter n
+UI 	? 100
+UI Estimated time on input 100 is 2.25259474230912742E18 microseconds.
+UI Estimated time is more than an hour.
+I will ask you if you really want to run it.
+UI 0:yes
+UI 1:no
+UI command 1
+UI 	Enter n
+UI 	? null
+UI 0:ExponentialFib
+UI 1:LinearFib
+UI 2:LogFib
+UI 3:ConstantFib
+UI 4:MysteryFib
+UI 5:EXIT
+UI command 5

@@ -1,0 +1,8 @@
+Mody		Login: kmod220        			Name: Kalpit Mody
+Testing isSorted, sameContents, and insertionSort from LAB work
+prog09.InsertionSort@77f03bb1 on array of length 10000
+146751.916 microseconds
+prog09.InsertionSort@77f03bb1 on array of length 100000
+1.519730096E7 microseconds
+SCORE: 40/40
+

@@ -1,0 +1,5 @@
+Mody		Login: kmod220        			Name: Kalpit Mody
+javac prog09/ExternalSort.java
+java prog09/ExternalSort
+SCORE: 15/15
+

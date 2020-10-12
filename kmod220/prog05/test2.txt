@@ -1,0 +1,371 @@
+How many disks?
+UI 5
+0:Human plays. 1:Computer plays.
+UI 1
+a 5 4 3 2 1
+b
+c
+
+Move 5 disks from peg a to peg c.
+
+Move 4 disks from peg a to peg b.
+Move 1 disk from peg a to peg c.
+Move 4 disks from peg b to peg c.
+
+Move 3 disks from peg a to peg c.
+Move 1 disk from peg a to peg b.
+Move 3 disks from peg c to peg b.
+Move 1 disk from peg a to peg c.
+Move 4 disks from peg b to peg c.
+
+Move 2 disks from peg a to peg b.
+Move 1 disk from peg a to peg c.
+Move 2 disks from peg b to peg c.
+Move 1 disk from peg a to peg b.
+Move 3 disks from peg c to peg b.
+Move 1 disk from peg a to peg c.
+Move 4 disks from peg b to peg c.
+
+Move 1 disk from peg a to peg c.
+Move 1 disk from peg a to peg b.
+Move 1 disk from peg c to peg b.
+Move 1 disk from peg a to peg c.
+Move 2 disks from peg b to peg c.
+Move 1 disk from peg a to peg b.
+Move 3 disks from peg c to peg b.
+Move 1 disk from peg a to peg c.
+Move 4 disks from peg b to peg c.
+
+a 5 4 3 2
+b
+c 1
+
+Move 1 disk from peg a to peg b.
+Move 1 disk from peg c to peg b.
+Move 1 disk from peg a to peg c.
+Move 2 disks from peg b to peg c.
+Move 1 disk from peg a to peg b.
+Move 3 disks from peg c to peg b.
+Move 1 disk from peg a to peg c.
+Move 4 disks from peg b to peg c.
+
+a 5 4 3
+b 2
+c 1
+
+Move 1 disk from peg c to peg b.
+Move 1 disk from peg a to peg c.
+Move 2 disks from peg b to peg c.
+Move 1 disk from peg a to peg b.
+Move 3 disks from peg c to peg b.
+Move 1 disk from peg a to peg c.
+Move 4 disks from peg b to peg c.
+
+a 5 4 3
+b 2 1
+c
+
+Move 1 disk from peg a to peg c.
+Move 2 disks from peg b to peg c.
+Move 1 disk from peg a to peg b.
+Move 3 disks from peg c to peg b.
+Move 1 disk from peg a to peg c.
+Move 4 disks from peg b to peg c.
+
+a 5 4
+b 2 1
+c 3
+
+Move 2 disks from peg b to peg c.
+Move 1 disk from peg a to peg b.
+Move 3 disks from peg c to peg b.
+Move 1 disk from peg a to peg c.
+Move 4 disks from peg b to peg c.
+
+Move 1 disk from peg b to peg a.
+Move 1 disk from peg b to peg c.
+Move 1 disk from peg a to peg c.
+Move 1 disk from peg a to peg b.
+Move 3 disks from peg c to peg b.
+Move 1 disk from peg a to peg c.
+Move 4 disks from peg b to peg c.
+
+a 5 4 1
+b 2
+c 3
+
+Move 1 disk from peg b to peg c.
+Move 1 disk from peg a to peg c.
+Move 1 disk from peg a to peg b.
+Move 3 disks from peg c to peg b.
+Move 1 disk from peg a to peg c.
+Move 4 disks from peg b to peg c.
+
+a 5 4 1
+b
+c 3 2
+
+Move 1 disk from peg a to peg c.
+Move 1 disk from peg a to peg b.
+Move 3 disks from peg c to peg b.
+Move 1 disk from peg a to peg c.
+Move 4 disks from peg b to peg c.
+
+a 5 4
+b
+c 3 2 1
+
+Move 1 disk from peg a to peg b.
+Move 3 disks from peg c to peg b.
+Move 1 disk from peg a to peg c.
+Move 4 disks from peg b to peg c.
+
+a 5
+b 4
+c 3 2 1
+
+Move 3 disks from peg c to peg b.
+Move 1 disk from peg a to peg c.
+Move 4 disks from peg b to peg c.
+
+Move 2 disks from peg c to peg a.
+Move 1 disk from peg c to peg b.
+Move 2 disks from peg a to peg b.
+Move 1 disk from peg a to peg c.
+Move 4 disks from peg b to peg c.
+
+Move 1 disk from peg c to peg b.
+Move 1 disk from peg c to peg a.
+Move 1 disk from peg b to peg a.
+Move 1 disk from peg c to peg b.
+Move 2 disks from peg a to peg b.
+Move 1 disk from peg a to peg c.
+Move 4 disks from peg b to peg c.
+
+a 5
+b 4 1
+c 3 2
+
+Move 1 disk from peg c to peg a.
+Move 1 disk from peg b to peg a.
+Move 1 disk from peg c to peg b.
+Move 2 disks from peg a to peg b.
+Move 1 disk from peg a to peg c.
+Move 4 disks from peg b to peg c.
+
+a 5 2
+b 4 1
+c 3
+
+Move 1 disk from peg b to peg a.
+Move 1 disk from peg c to peg b.
+Move 2 disks from peg a to peg b.
+Move 1 disk from peg a to peg c.
+Move 4 disks from peg b to peg c.
+
+a 5 2 1
+b 4
+c 3
+
+Move 1 disk from peg c to peg b.
+Move 2 disks from peg a to peg b.
+Move 1 disk from peg a to peg c.
+Move 4 disks from peg b to peg c.
+
+a 5 2 1
+b 4 3
+c
+
+Move 2 disks from peg a to peg b.
+Move 1 disk from peg a to peg c.
+Move 4 disks from peg b to peg c.
+
+Move 1 disk from peg a to peg c.
+Move 1 disk from peg a to peg b.
+Move 1 disk from peg c to peg b.
+Move 1 disk from peg a to peg c.
+Move 4 disks from peg b to peg c.
+
+a 5 2
+b 4 3
+c 1
+
+Move 1 disk from peg a to peg b.
+Move 1 disk from peg c to peg b.
+Move 1 disk from peg a to peg c.
+Move 4 disks from peg b to peg c.
+
+a 5
+b 4 3 2
+c 1
+
+Move 1 disk from peg c to peg b.
+Move 1 disk from peg a to peg c.
+Move 4 disks from peg b to peg c.
+
+a 5
+b 4 3 2 1
+c
+
+Move 1 disk from peg a to peg c.
+Move 4 disks from peg b to peg c.
+
+a
+b 4 3 2 1
+c 5
+
+Move 4 disks from peg b to peg c.
+
+Move 3 disks from peg b to peg a.
+Move 1 disk from peg b to peg c.
+Move 3 disks from peg a to peg c.
+
+Move 2 disks from peg b to peg c.
+Move 1 disk from peg b to peg a.
+Move 2 disks from peg c to peg a.
+Move 1 disk from peg b to peg c.
+Move 3 disks from peg a to peg c.
+
+Move 1 disk from peg b to peg a.
+Move 1 disk from peg b to peg c.
+Move 1 disk from peg a to peg c.
+Move 1 disk from peg b to peg a.
+Move 2 disks from peg c to peg a.
+Move 1 disk from peg b to peg c.
+Move 3 disks from peg a to peg c.
+
+a 1
+b 4 3 2
+c 5
+
+Move 1 disk from peg b to peg c.
+Move 1 disk from peg a to peg c.
+Move 1 disk from peg b to peg a.
+Move 2 disks from peg c to peg a.
+Move 1 disk from peg b to peg c.
+Move 3 disks from peg a to peg c.
+
+a 1
+b 4 3
+c 5 2
+
+Move 1 disk from peg a to peg c.
+Move 1 disk from peg b to peg a.
+Move 2 disks from peg c to peg a.
+Move 1 disk from peg b to peg c.
+Move 3 disks from peg a to peg c.
+
+a
+b 4 3
+c 5 2 1
+
+Move 1 disk from peg b to peg a.
+Move 2 disks from peg c to peg a.
+Move 1 disk from peg b to peg c.
+Move 3 disks from peg a to peg c.
+
+a 3
+b 4
+c 5 2 1
+
+Move 2 disks from peg c to peg a.
+Move 1 disk from peg b to peg c.
+Move 3 disks from peg a to peg c.
+
+Move 1 disk from peg c to peg b.
+Move 1 disk from peg c to peg a.
+Move 1 disk from peg b to peg a.
+Move 1 disk from peg b to peg c.
+Move 3 disks from peg a to peg c.
+
+a 3
+b 4 1
+c 5 2
+
+Move 1 disk from peg c to peg a.
+Move 1 disk from peg b to peg a.
+Move 1 disk from peg b to peg c.
+Move 3 disks from peg a to peg c.
+
+a 3 2
+b 4 1
+c 5
+
+Move 1 disk from peg b to peg a.
+Move 1 disk from peg b to peg c.
+Move 3 disks from peg a to peg c.
+
+a 3 2 1
+b 4
+c 5
+
+Move 1 disk from peg b to peg c.
+Move 3 disks from peg a to peg c.
+
+a 3 2 1
+b
+c 5 4
+
+Move 3 disks from peg a to peg c.
+
+Move 2 disks from peg a to peg b.
+Move 1 disk from peg a to peg c.
+Move 2 disks from peg b to peg c.
+
+Move 1 disk from peg a to peg c.
+Move 1 disk from peg a to peg b.
+Move 1 disk from peg c to peg b.
+Move 1 disk from peg a to peg c.
+Move 2 disks from peg b to peg c.
+
+a 3 2
+b
+c 5 4 1
+
+Move 1 disk from peg a to peg b.
+Move 1 disk from peg c to peg b.
+Move 1 disk from peg a to peg c.
+Move 2 disks from peg b to peg c.
+
+a 3
+b 2
+c 5 4 1
+
+Move 1 disk from peg c to peg b.
+Move 1 disk from peg a to peg c.
+Move 2 disks from peg b to peg c.
+
+a 3
+b 2 1
+c 5 4
+
+Move 1 disk from peg a to peg c.
+Move 2 disks from peg b to peg c.
+
+a
+b 2 1
+c 5 4 3
+
+Move 2 disks from peg b to peg c.
+
+Move 1 disk from peg b to peg a.
+Move 1 disk from peg b to peg c.
+Move 1 disk from peg a to peg c.
+
+a 1
+b 2
+c 5 4 3
+
+Move 1 disk from peg b to peg c.
+Move 1 disk from peg a to peg c.
+
+a 1
+b
+c 5 4 3 2
+
+Move 1 disk from peg a to peg c.
+
+a
+b
+c 5 4 3 2 1
+

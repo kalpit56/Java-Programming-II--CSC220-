@@ -1,0 +1,56 @@
+0a1
+> put Brad 46 hash index 2
+7a9
+> put Hal 10 hash index 2
+14a17,20
+> put Kyle 6 hash index 0
+> put Kyle 6 hash index 3
+> put Brad 46 hash index 11
+> put Hal 10 hash index 7
+28a35
+> put Lisa 43 hash index 3
+42a50
+> put Lynne 43 hash index 8
+56a65
+> put Victor 46 hash index 3
+70a80,87
+> put Zoe 6 hash index 8
+> put Kyle 6 hash index 11
+> put Lisa 43 hash index 23
+> put Victor 46 hash index 19
+> put Hal 10 hash index 11
+> put Lynne 43 hash index 8
+> put Zoe 6 hash index 12
+> put Brad 46 hash index 7
+100a118
+> put Zoran 76 hash index 10
+348a367
+> put Ant 3 hash index 23
+409a429
+> put Bug 1 hash index 12
+470a491
+> put Cat 4 hash index 2
+531a553
+> put Dog 1 hash index 12
+592a615
+> put Eel 5 hash index 24
+653a677
+> put Fox 9 hash index 19
+714a739
+> put Gnu 2 hash index 22
+775a801
+> put Hen 2 hash index 25
+836a863
+> put Jay 2 hash index 14
+897a925,927
+> put Owl 2 hash index 0
+> put Owl 2 hash index 4
+> put Victor 46 hash index 7
+918a949
+> put Pig 2 hash index 6
+939a971
+> put Rat 2 hash index 5
+960a993,995
+> put Yak 2 hash index 3
+> put Yak 2 hash index 3
+> put Victor 46 hash index 7

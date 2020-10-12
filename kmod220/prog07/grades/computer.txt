@@ -1,0 +1,24 @@
+Enter word file: 
+UI words
+Enter start word
+UI snow
+Enter target word
+UI rain
+0:Human plays. 1:Computer plays.
+UI 1
+Got to rain from raid
+
+The target is 7 away from start.
+
+snow
+slow
+slot
+slit
+slid
+said
+raid
+rain
+
+This solve polls 74 times.
+
+SCORE 25/25

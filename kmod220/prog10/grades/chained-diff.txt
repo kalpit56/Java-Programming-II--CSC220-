@@ -1,0 +1,21 @@
+0a1
+> put Brad 46 hash index 2
+7a9
+> put Hal 10 hash index 2
+14a17
+> put Kyle 6 hash index 0
+21a25
+> put Lisa 43 hash index 3
+28a33
+> put Lynne 43 hash index 3
+35a41,46
+> put Victor 46 hash index 0
+> put Kyle 6 hash index 5
+> put Hal 10 hash index 7
+> put Brad 46 hash index 7
+> put Lynne 43 hash index 8
+> put Lisa 43 hash index 3
+47a59
+> put Zoe 6 hash index 2
+59a72
+> put Zoran 76 hash index 2

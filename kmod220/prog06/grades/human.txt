@@ -1,0 +1,44 @@
+Enter word file: 
+UI words
+Enter start word
+UI fail
+Enter target word
+UI pass
+0:Human plays. 1:Computer plays.
+UI 0
+Current Word: fail
+Target Word: pass
+What is your next word?
+UI pall
+Sorry, but pall differs by more than one letter from fail
+Current Word: fail
+Target Word: pass
+What is your next word?
+UI fail
+Sorry, but fail differs by more than one letter from fail
+Current Word: fail
+Target Word: pass
+What is your next word?
+UI fais
+fais is not a word.
+Try again:
+UI fail
+Sorry, but fail differs by more than one letter from fail
+Current Word: fail
+Target Word: pass
+What is your next word?
+UI fall
+Current Word: fall
+Target Word: pass
+What is your next word?
+UI pall
+Current Word: pall
+Target Word: pass
+What is your next word?
+UI pals
+Current Word: pals
+Target Word: pass
+What is your next word?
+UI pass
+You Win!
+SCORE 30/30

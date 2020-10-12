@@ -1,0 +1,17 @@
+Enter word file: 
+UI words
+Enter start word
+UI fail
+Enter target word
+UI pass
+0:Human plays. 1:Computer plays.
+UI 1
+Got to pass from pals
+
+fail
+fall
+pall
+pals
+pass
+
+SCORE 25/25
